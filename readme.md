@@ -15,3 +15,8 @@
 ## 公开
 
 本程序公开于微信公众号 末心的小圈圈
+
+## 启动服务
+参考文章：https://mp.weixin.qq.com/s?__biz=MzI5NzIwNTAyMQ==&mid=2247489186&idx=1&sn=9bea9b4d92eb6bbca16480aaa805e5e7&chksm=ecb9fad0dbce73c6e17f4bfeed7cd163b0840ee00b3afa262d77587532771fcf79aab753b96c&token=1327896414&lang=zh_CN#rd
+
+在根目录上执行
